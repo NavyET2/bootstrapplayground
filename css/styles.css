@@ -3,7 +3,7 @@ h1 {
 }
 .row {
   position: relative;
-  float: right;
+  float: left;
 }
 .column1 {
   margin: 12px;
@@ -61,7 +61,8 @@ h1 {
 
 .sidebox {
   margin: 12px;
-  width: 44%;
   border: 1px solid #CEDFF2;
   padding: 4px;
+  background-color: #F6F6F6;
+  float: center;
 }
